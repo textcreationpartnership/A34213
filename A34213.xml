@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Condemnation of Oliver Plunket, titular primate and Arch Bp. of Dublin in Ireland and likewise of Edw. Fitz Harris, for high treason, at the Kings-Bench in Westminster-Hall, June 15, 1681.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34213</idno>
+            <idno type="STC">Wing C5720</idno>
+            <idno type="STC">ESTC R29315</idno>
+            <idno type="EEBO-CITATION">11073336</idno>
+            <idno type="OCLC">ocm 11073336</idno>
+            <idno type="VID">46241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1420:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Condemnation of Oliver Plunket, titular primate and Arch Bp. of Dublin in Ireland and likewise of Edw. Fitz Harris, for high treason, at the Kings-Bench in Westminster-Hall, June 15, 1681.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plunket, Oliver, --  Saint, 1629-1681.</term>
+               <term>Fitzharris, Edward, 1648?-1681.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="trial_proceedings">
+            <pb facs="tcp:46241:1"/>
+            <head>THE CONDEMNATION OF Oliver Plunket <hi>Titular</hi> Primate <hi>and Arch Bp. of</hi> Dublin <hi>in</hi> Ireland, And likewiſe of Edw. Fitz Harris: <hi>For</hi> High TREASON, <hi>at the</hi> KINGS-Bench <hi>in</hi> Weſtminſter-Hall, <hi>June</hi> 15. 1681.</head>
+            <p>THE Court being ſet, <hi>Oliver Pluncket</hi> was brought to the Bar, and Mr. Attor<g ref="char:EOLhyphen"/>ny General moved in behalf of the King for Judgment againſt the Priſoner, whereupon he was Ordered to hold up his Hand, and demanded what he had to ſay, why Judgment of Death ſhould not be pronounced againſt him, for the <hi>High Treaſon,</hi> upon which he was lately Arraigned and found Guilty of in that Court.</p>
+            <p>Whereupon Mr. <hi>Pluncket</hi> inſiſted upon his want of Evidence, whom he expected ſhould have appeared on his behalf at his Tryal, likewiſe the improbability of the Evi<g ref="char:EOLhyphen"/>dence againſt him, ſince the place where they Depoſed an Army was to be Landed, was not capable of receiving them: and that it was not poſſible for him to raiſe ſo much money in <hi>Ireland</hi> as ſhould maintain them; he alſo inſiſted upon the Jury, alleadging that the Laws of <hi>England</hi> are ſo favourable to take a Jury out of the place where the Fact was Committed, that they may the better judge of Times, Places, and other Cir<g ref="char:EOLhyphen"/>cumſtances; He acknowledged he was a Prieſt and a Biſhop in that Kingdom, which he ſaid was not Treaſon there, and that while there was connivance, till the Procla<g ref="char:EOLhyphen"/>mation did forbid him, he did Exerciſe his Function there; concluding with many Proteſtations of his Innocency.</p>
+            <p>The Court having with Patience heard what he could ſay, proceeded to Sentence; and he was told, He had been Convicted of the greateſt and moſt horrid of all Crimes, even Treaſon of the higheſt nature; Treaſon againſt God, his King and Country: againſt God, in endeavouring to bring-in a falſe Religion, and the moſt pernicious of all others whatſoever; for whereas True Religion teaches men their Duty to God and man, this on the coutrary, teaches men (for advancing the Church, to commit all manner of Vil<g ref="char:EOLhyphen"/>lanies and Treaſons: and as it was againſt God, ſo certainly he had committed a ve<g ref="char:EOLhyphen"/>ry high Crime againſt his Lawful Prince, ſince the Deſign was to be carried on by ta<g ref="char:EOLhyphen"/>king away his Life, to whom he owed all manner of Allegiance and Obedience; and though he had alledged That it was not Treaſon to be a Biſhop or a Prelate in <hi>Ireland,</hi> yet the Court told him, That for the Pope to ſet up Biſhops and Prelates in His Maje<g ref="char:EOLhyphen"/>ſties own Kingdom, againſt His Majeſties Authority, though it were not formal Trea<g ref="char:EOLhyphen"/>ſon, yet it ſeemed to be of a Treaſonable nature, ſince it ſet up another Power againſt his natural Prince: and then the Deſign was likewiſe to have brought Blood and Deſtru<g ref="char:EOLhyphen"/>ction upon the poor People of <hi>Ireland,</hi> which had been fully proved againſt him.</p>
+            <p>And as to what he alledged of being Tryed in the ſame place where the Fact was Committed, he was told, That the Law whereby he was Tryed, was not made with a Deſign to enſnare him, but that there were many Preſidents and Examples, that divers have been Arraigned and Condemned in <hi>England</hi> for Treaſon Committed in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <pb facs="tcp:46241:2"/>
+            <p>He was then told, he was near his End, and that it appeared he had lived in a falſe and wicked Religion for a long time, but yet there was room for Repentance even to the laſt, which the Court wiſhed he might have Grace to make uſe of: But all the buſi<g ref="char:EOLhyphen"/>neſs of the Court was to tell him, what the Law ſaid, ſince there was no room for Mer<g ref="char:EOLhyphen"/>cy in that Court, but they were bound to pronounce Judgment againſt him, and the Judgment of the Court was, <hi>That he muſt go from thence to the place from whence he came, and be drawn from thence through the City of</hi> London <hi>to</hi> Tyburn, <hi>and there be Hanged by the Neck, and to be cut down before he was Dead, and his Bowels to be cut out and Burned before his Face, his Head to be cut off, his Body to be divided into four Quarters, and to be diſpoſed of as his Majesty ſhall think fit.</hi> The Court beſeeching God to have Mercy upon his Soul.</p>
+            <p>Mr. <hi>Plunket</hi> then deſired the favour, that his Man might be permitted to come to him, which the Court allowed, and likewiſe told him, he might have a Proteſtant Mi<g ref="char:EOLhyphen"/>niſter come to him to diſcourſe with him, but he declined it, ſaying, <hi>He could do his buſineſs himſelf.</hi>
+            </p>
+            <p>A While after Mr. <hi>Edward Fitz-Harris,</hi> was brought into Court, and the ſame Queſtions were demanded of him, as of Mr. <hi>Plunket;</hi> that is, What he could ſay, why Judgment of Death ſhould not be pronounced againſt him?</p>
+            <p>Mr. <hi>Fitz-Harris</hi> ſaid, He was one of the Kings Evidence, and deſired time; But the Court told him, they could take no notice thereof, and he was now to offer ſome matter of Law why Sentence ſhould not paſs upon him? to which he had little or no<g ref="char:EOLhyphen"/>thing to ſay, and thereupon the Court proceeded and told him.</p>
+            <p>That he had been Indicted for Treaſon of the higheſt Magnitude, even for deſign<g ref="char:EOLhyphen"/>ing the Ruin and Deſtruction of the King and the whole Kingdom; a Treaſon, which if it had not pleaſed God, mercifully to Diſcover and Prevent, would have brought all the Nation into Blood and Miſery, and that he had put himſelf upon his Countrey for his Tryal, who had found him Guilty of the ſame: He was therefore adviſed ſeri<g ref="char:EOLhyphen"/>ouſly to conſider of the heinouſneſs of his Crime, which was to deſtroy his Majeſty, and with him the beſt of his Subjects, to which end he had prepared that Curſed Trea<g ref="char:EOLhyphen"/>ſonable Libel, which was intended on purpoſe to ſtir up the People to Sedition and Rebellion, a Crime againſt mankind, ſince it would have engaged them to have Mur<g ref="char:EOLhyphen"/>dered and Deſtroyed one another, and could have no pretence of bringing any benefit or advantage to the people of <hi>England,</hi> being intended only for Miſchief and Deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>He was farther told, That it appeared he was an <hi>Iriſh</hi> Papiſt, and that he had for<g ref="char:EOLhyphen"/>merly inſtilled very Wicked and Dangerous Principles into the minds of the People of that Kingdom, and had now endeavoured to ſet this Nation in a Flame by his Trea<g ref="char:EOLhyphen"/>ſonable Practices, thereby to bring in the Popiſh Religion among us, but that it hath pleaſed God to deliver us out of their hands, and to bring him to Juſtice; and the Court were now to pronounce the Judgment which the Law paſſeth upon ſuch notorious Of<g ref="char:EOLhyphen"/>fendors.</p>
+            <p>Then the ſame Sentence was pronounced againſt him, as againſt <hi>Pluncket;</hi> After which Mr. <hi>Fitz-Harris</hi> deſired that his Wife might come to him, which the Court told him, was not denied him: he ſaid, ſhe could not come to him, and deſired a Rule of Court for it; the Court told him, ſhe was never forbid by them to come to him, and therefore there needed no Rule, but if ſhe were confined upon any other Account, they could take no notice thereof: Mr. <hi>Fitz-Harris</hi> then deſired liberty for any Friend to come to him, which was readily granted, and ſo he was carried out of Court, by the Warders of the <hi>Tower,</hi> and from thence he was ſent back by Water to the <hi>Tower.</hi>
+            </p>
+            <p>
+               <hi>Theſe are ſome brief Notes of this days proceedings, but we hear that an exact Ac<g ref="char:EOLhyphen"/>count of his</hi> Tryal <hi>and</hi> Condemnation <hi>will be ſuddenly Publiſhed, to which we refer the Reader.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Langley Curtiſs, <hi>on</hi> Ludgate-Hill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
